@@ -1,3 +1,7 @@
+This project was submitted as part of the entry to the ZK Lisbon Hackathon.  It was completed in partnership with Li Quan (University of Cophenhagen).
+
+
+
 # Zero Knowledge Decision Tree Prediction (ZK-DTP)
 
 ## Track
